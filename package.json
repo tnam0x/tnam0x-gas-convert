@@ -1,0 +1,29 @@
+{
+  "name": "tnam0x-gas-convert",
+  "version": "1.0.0",
+  "description": "tnam0x-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tnam0x/tnam0x-gas-convert.git"
+  },
+  "keywords": [
+    "tnam0x-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "tnam0x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tnam0x/tnam0x-gas-convert/issues"
+  },
+  "homepage": "https://github.com/tnam0x/tnam0x-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
