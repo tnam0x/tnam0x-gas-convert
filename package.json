@@ -1,7 +1,7 @@
 {
   "name": "tnam0x-gas-convert",
   "version": "1.0.0",
-  "description": "tnam0x-gas-convert",
+  "description": "Gas converter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
